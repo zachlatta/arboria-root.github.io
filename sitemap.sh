@@ -1,1 +1,0 @@
-eek --graph http://localhost:8080/ 2> /dev/null
