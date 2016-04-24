@@ -6,7 +6,6 @@ page_template = """
     <head>
         <title>{title} - Arboria</title>
         <link rel="stylesheet" type="text/css" href="arboria.css"></link>
-        <meta name="robots" content="noindex"/>
     </head>
     <body>
         <h1>{title}</h1>
