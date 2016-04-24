@@ -1,0 +1,275 @@
+mailbox.html:
+    title: The Mailbox
+    text: |
+        <p>Intrigued, you pry open the rusty mailbox with great difficulty. Out
+        comes a small letter, folded hastily in half. It reads, in rushed
+        handwriting,
+
+        <blockquote>
+
+        <p>Welcome to Arboria!
+
+        <p>To learn more about the world you're in, click <a
+        href="arboria.html">here</a>.
+
+        <p>We hope you enjoy your stay.
+
+        </blockquote>
+
+        <p>The letter ends as abruptly as it begins. You silently fold it back
+        and return it to the mailbox, which squeals in pain as you close it.
+
+        <hr/>
+
+        <p>To the west is an old house with a boarded-up door.
+        
+        <p>To the east is a vast field clothed in the verduous, lush grass. The
+        sun is in your eyes, but if you squint, you think can see some trees in
+        the distance.
+
+    knock.html: Knock on the door.
+    east.html: Head east.
+
+east.html:
+    title: Heading East
+    text: |
+        <p>You begin on the long journey eastwards. You choose not to look back
+        behind you as you trudge silently across the grass, hearing only the
+        occasional chirp above you.
+
+        <p>The sun traverses the cloudless sky inch by inch, shortening your
+        shadow as the hours flow by. By the time the trees in the distance
+        begin to feel nearer, the sunshine is directly overhead. You pause to
+        take a break. The grass is still cool and inviting, dotted with
+        dandelions. You close your eyes for a moment.
+
+        <hr/>
+
+        <p>Tangerine hues bleed across the sky like watercolor on tissue paper.
+        Venus stares intently at you through the clouds&hellip; and appears to
+        jitter a little.
+
+        <p>Actually, now that you think about it, the entire sky is shaking, as
+        are the trees in the distance. On closer inspection, it is <em>you</em>
+        who is moving. You hazard looking down, only to see the grass gone. It
+        has been replaced with a meager pile of hay heaped on wood.
+
+        <p>You take stock of the situation and conclude that you are on a
+        horse-drawn cart racing east. Your arms are tied behind you
+        uncomfortably, but posture appears to be the least of your worries at
+        the moment.
+        
+        <p>Your stomach grumbles audibly.
+
+    driver.html: Try to get the driver's attention.
+    escape.html: Try to jump off the cart.
+
+driver.html:
+    title: Talking to the Driver
+    text: |
+        <p><em>&mdash; Hello! Hello! Where am I?</em>
+
+        <p><em>&mdash; Don't move.</em>
+
+        <p><em>&mdash; Where are we going?</em>
+
+        <p><em>&mdash; You know very well where you are going.</em>
+
+        <p><em>&mdash; Is this some sort of joke?</em>
+
+        <p><em>&mdash; Does this look like a joke to you?</em> The cart driver
+        stops the cart suddenly; it lurches and your head collides painfully
+        with the wood. He dismounts and walks around to look you in the eye. He
+        is tall, with long hair ruffled messily by the windy ride. <em>Who do
+        you think you are?</em>
+
+        <p><em>&mdash; There must be some mistake. I don't know what's
+        happening.</em>
+
+        <p><em>&mdash; The Queen will be the judge of that</em> says the driver
+        harshly. You decide you don't like him very much.
+
+        <p><em>&mdash; Fine. Take me to this Queen of yours. And get a
+        haircut.</em> You realize this last outburst was a mistake before it
+        even leaves your mouth. The driver glares at you in consternation,
+        before wordlessly returning to his horses and resuming the ride.
+
+    arboria.html: Continue the tale!
+
+escape.html:
+    title: Escaping from the Cart
+    text: |
+        <p>With great effort, you heave yourself off the cart. Even before you
+        land on the ground, you regret it. You land on your back, and roll a
+        good distance before finally stopping.
+
+        <p>The cart driver doesn't seem to notice your absence. He keeps
+        driving along happily, and is soon out of sight in the distance.
+
+        <p>You struggle to your feet and take in your surroundings. A small
+        village, complete with dirt roads and thatched huts. Your back is
+        extremely sore; your arms are still bound behind you.
+
+        <p>You walk to the nearest hut and stand there for a moment wondering
+        how to knock without your arms. You consider tapping the door lightly
+        with your head, but before you have the chance to embarrass yourself
+        that way, an old lady holding a rolling pin opens the door.
+
+        <p><em>&mdash; Good evening, Ma'am.</em> you begin, formally. She looks
+        at you like you're crazy, and you realize she has a good point. You
+        gesture towards your bound hands, and she seems to understand. She
+        turns and shouts into the hut in a strident voice and a foreign
+        language.
+
+        <p>A young boy, no taller than the old woman, returns with a serrated
+        knife which, like all knives, looked bigger and sharper than it was.
+        You panic for a moment, then realize her intentions and turn around.
+        The ropes are sawed in seconds; you look at her with gratitude, unsure
+        of how to express it.
+
+        <p>She understands your expression and invites you inside. You
+        graciously accept and enter the small mud hut just as the last bit of
+        sun melts away over the horizon.
+
+    arboria.html: Continue the tale!
+
+knock.html:
+    title: Knocking at the Door
+    text: |
+        <p>You knock on the door, hesitantly at first, then more firmly when
+        nobody answers. After a few moments of silence, you begin to realize
+        the irony of knocking at a boarded-up door. You stand there sheepishly.
+
+        <p>Determined to enter the house, you walk around its perimeter,
+        searching for another way in. Paint peels grotesquely off the walls,
+        and you wonder how old the house is. On the western side, ivy meanders
+        up a corner, trying to engulf the house in a blanket of leaf.
+        
+        <p>You catch a glint of sunlight peeking through the ivy. Brushing
+        aside the tangle of vegetation reveals a window webbed with cracks.
+
+        <p>You notice a brick lying on the ground, almost as if it were left
+        there just for you&hellip;
+
+        <p>As you pick up the brick, your conscience begins to catch up to you.
+
+    break.html: Break the window and enter the house.
+    east.html: Leave the house and head east.
+
+break.html:
+    title: Breaking the Window
+    text: |
+        <p>The window smashes gracefully; the shattering sound is surprisingly
+        satisfying to you. You realize, in the back of your mind, that you
+        somewhat enjoyed that act of vandalism. You vault yourself over the
+        windowsill and hop off onto the floor.
+
+        <p>The floor stubbornly refuses to meet your feet. 
+
+        <p>You first realize something is wrong about a second in, when you
+        notice that you are still falling. You consider panicking, then choose
+        instead to enjoy the ride. Another second goes by, then you land
+        clumsily on a small cot covered with shards of glass and a brick.
+        
+        <p>The only illumination is from the few rays of sunlight that stream
+        pitifully through the window you broke&mdash;you can see the beams stab
+        through the cloud of dust rising gently above you. But even in the
+        darkness, you can see the grimy brick walls and cold stone floor that
+        contain you.
+
+        <p>You do not know what to call your surroundings. Basement? Dungeon?
+        Badly-designed conversation pit? After a brief internal debate, you
+        decide to go with "dungeon", since it has that dungeon-ey ambiance.
+
+        <hr/>
+
+        <p>A curtain hangs through an arched doorway, its sardonic floral print
+        offending the interior decorator within you. A wooden ladder leans
+        precariously against the opposite wall. Spiderwebs span the spaces
+        between the rungs, and you try not to imagine what other arthropods
+        might be lurking around you.
+
+        <p>You begin to regret jumping through the window.
+
+    curtain.html: Push the curtain aside and explore.
+    ladder.html: Try to climb the ladder and return to the surface.
+
+curtain.html:
+    title: Behind the Curtain
+    text: |
+        <p>You find yourself in a chamber virtually identical to the one you
+        were just in, but somehow manages to be even dustier, grimier, and
+        grimmer.  You start sighing, then think better of it&mdash;that dust
+        cannot possibly be good for your lungs.
+
+        <p>On the bright side, however&mdash;and it really is the bright
+        side&mdash;it's not as dark in this chamber. Indeed, the chamber is
+        bathed in a sickly yello that seems to be emanating from &hellip come
+        to think of it, you're not quite sure where the glow is coming from.
+
+        <p>You venture deeper into the chamber, wading through the opaque
+        clouds of dust, and realize it is much larger than you thought. You
+        guess the direction of the glow from your shadow and start walking. You
+        cannot see more than an arm's length through the dust; occasionally you
+        bump into a wall and have to turn.
+
+        <hr/>
+
+        <p>It's a light bulb. When you're close enough, the glow sharpens to
+        a halo, and then to a blazing arc of filament.
+
+        <p>You look up, but thanks to the dust, you cannot see where the bulb
+        is suspended from.
+
+        <p>You look down, and you see footprints.
+
+        <p>The footprints interest you for two reasons. Firstly, there are two
+        sets: your own, and those of a bare foot at least two shoe sizes larger
+        than yours. The second reason is that both sets of footprints arrive at
+        the light bulb; neither leave.
+
+        <p>As you try to puzzle this out in your mind, you become aware of a
+        wailing sound echoing through the chamber. As you begin to focus on it,
+        you realized you judged it prematurely. It's not wailing; it's someone
+        singing.
+
+        <p>You try to think of an excuse for being where you are. Falling
+        serendipitiously through a conveniently-broken window seems like a
+        stretch, so you choose instead to hide behind a nearby wall.
+
+        <p>The singing gets louder, but you still cannot discern the words.
+
+    arboria.html: Continue the tale!
+
+ladder.html:
+    title: Climbing the Ladder
+    text: |
+        <p>You take a tentative step up the ladder, and it seems to hold your
+        weight. You take another step, and then another. Halfway up the ladder,
+        you can see the inside of the boarded-up door. You begin to realize
+        that there is a small flaw in your plan, but you decide to cross that
+        bridge when it comes.
+
+        <p>You reach the top of the ladder and stare at the door. Frustrated,
+        you throw your fists at it in futility.
+
+        <p><em>&mdash; Who's there?</em> calls a sing-song voice, almost
+        knocking you off the ladder in surprise. You grip the top rung tighter.
+
+        <p><em>&mdash; Help! Open the door!</em> you cry, louder than you need
+        to.
+
+        <p><em>&mdash; Nuh-uh! Sor-ry!</em> says the sing-song voice. You hear
+        faint laughter on the other side.
+
+        <hr/>
+
+        <p>You try to evaluate your position. Strategically, you decide, you
+        are losing, considering (a) you're on top of a tall, flimsy ladder, and
+        (b) you have no idea what you are doing.
+
+        <p>You deduce that you are in no way prepared to go on the offensive.
+        You thus do the honorable thing and descend the ladder as quickly as
+        you can.
+
+    arboria.html: Continue the tale!

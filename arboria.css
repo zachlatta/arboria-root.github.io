@@ -1,0 +1,82 @@
+body {
+    max-width: 30em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 3em;
+    border-top: 0.5em solid black;
+    font-family: "Hoefler Text", "Times", serif;
+    font-size: 14pt;
+    line-height: 1.3em;
+}
+
+::selection {
+    background-color: #f5f5dc;
+}
+
+::-moz-selection {
+    background-color: #f5f5dc;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+h1 {
+    margin-top: 3em;
+    line-height: 1.2em;
+}
+
+a {
+    color: crimson;
+}
+
+a[href^="http"]:after {
+    content: " [" attr(href) "]";
+}
+
+a:hover {
+    color: salmon;
+}
+/*
+a:visited {
+    color: salmon;
+}*/
+
+a[href="arboria.html"] {
+    font-style: italic;
+}
+a[href^="http"] {
+}
+
+p {
+    text-indent: 1em;
+}
+
+code {
+    font-family: "Courier", monospace;
+    border: 1px solid #e2e2cb;
+    border-radius: 0.2em;
+    background-color: #f5f5dc;
+    padding-left: 0.2em;
+    padding-right: 0.2em;
+}
+
+hr {
+    width: 2em;
+    border: none;
+    height: 0;
+    background-color: gray;
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+hr:after {
+    content: "\2767"; /* &#10087; a fleuron */
+    display: block;
+    text-align: center;
+    position: relative; top: -0.7em;
+}
