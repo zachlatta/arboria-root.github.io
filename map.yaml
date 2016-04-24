@@ -94,8 +94,6 @@ driver.html:
         even leaves your mouth. The driver glares at you in consternation,
         before wordlessly returning to his horses and resuming the ride.
 
-    arboria.html: Continue the tale!
-
 escape.html:
     title: Escaping from the Cart
     text: |
@@ -130,8 +128,6 @@ escape.html:
         <p>She understands your expression and invites you inside. You
         graciously accept and enter the small mud hut just as the last bit of
         sun melts away over the horizon.
-
-    arboria.html: Continue the tale!
 
 knock.html:
     title: Knocking at the Door
@@ -239,8 +235,6 @@ curtain.html:
 
         <p>The singing gets louder, but you still cannot discern the words.
 
-    arboria.html: Continue the tale!
-
 ladder.html:
     title: Climbing the Ladder
     text: |
@@ -271,5 +265,3 @@ ladder.html:
         <p>You deduce that you are in no way prepared to go on the offensive.
         You thus do the honorable thing and descend the ladder as quickly as
         you can.
-
-    arboria.html: Continue the tale!
